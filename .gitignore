@@ -1,0 +1,7 @@
+.settings
+bin
+lib
+META-INF
+net
+.classpath
+.project
